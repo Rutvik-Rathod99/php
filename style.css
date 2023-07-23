@@ -1,0 +1,17 @@
+body{
+    width:100%;
+    }
+    .container{
+    width:100%;
+    padding-left:40%;
+    }
+    .name, .email,.website,.comment, .monum,.sub,.pass,.cpass{
+    height: 4%;
+    width: 20%
+    }
+    .sub{
+    background-color:green;
+    }
+    .error{
+    color: red;
+    }
